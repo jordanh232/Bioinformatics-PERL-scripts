@@ -1,0 +1,2 @@
+Testing for GCC[ATCG]{5}GGCTest GCCGCATGGGC
+ for GCC[ATCG]{5}GGC Passed
