@@ -1,0 +1,1 @@
+It would not be a good idea to use the c option to delete improper amino acid characters because this option simply changes/flags the improper characters. In order to delete the improper characters, you would use the d option or you could use cd to change and delete the improper characters.

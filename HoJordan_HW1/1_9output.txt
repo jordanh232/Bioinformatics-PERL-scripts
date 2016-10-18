@@ -1,0 +1,3 @@
+Enter a DNA sequence: cgtagct
+Purine Count: 3
+Pyramydine Count: 4
