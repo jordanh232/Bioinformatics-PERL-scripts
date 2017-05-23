@@ -1,0 +1,404 @@
+mkvlwaallvtflagcqakveqavetepepelrqqtewqsgqrwelalgrfwdylrwvqtlseqvqeellssqvtqelralmdetmkelkaykseleeqltpvaeetrarlskelqaaqarlgadvlashgrlvqyrgevqamlgqsteelrvrlashlrklrkrllrvlashqkrlavyqagaregaerglsairerlgplveqgrvraatvgslagqplqeraqawgerlrarmeemgsrtrdrldevkeqvaevrakleeqaqqirlvlashqarlkswfeplvedmqrqwaglvek
+The occurrences of string aall are in positions 6 
+The occurrences of string aaqa are in positions 117 
+The occurrences of string aatv are in positions 210 
+The occurrences of string advl are in positions 124 
+The occurrences of string aeet are in positions 104 
+The occurrences of string aerg are in positions 188 
+The occurrences of string aevr are in positions 255 
+The occurrences of string agar are in positions 182 
+The occurrences of string agcq are in positions 14 
+The occurrences of string aglv are in positions 295 
+The occurrences of string agqp are in positions 217 
+The occurrences of string aire are in positions 194 
+The occurrences of string akle are in positions 259 
+The occurrences of string akve are in positions 18 
+The occurrences of string algr are in positions 47 
+The occurrences of string allv are in positions 7 
+The occurrences of string almd are in positions 80 
+The occurrences of string amlg are in positions 142 
+The occurrences of string aqar are in positions 118 
+The occurrences of string aqaw are in positions 225 
+The occurrences of string aqqi are in positions 265 
+The occurrences of string areg are in positions 184 
+The occurrences of string arlg are in positions 120 
+The occurrences of string arlk are in positions 277 
+The occurrences of string arls are in positions 109 
+The occurrences of string arme are in positions 234 
+The occurrences of string ashg are in positions 128 
+The occurrences of string ashl are in positions 156 
+The occurrences of string ashq are in positions 171, 273 
+The occurrences of string atvg are in positions 211 
+The occurrences of string avet are in positions 23 
+The occurrences of string avyq are in positions 178 
+The occurrences of string awge are in positions 227 
+The occurrences of string ayks are in positions 91 
+The occurrences of string cqak are in positions 16 
+The occurrences of string detm are in positions 83 
+The occurrences of string devk are in positions 248 
+The occurrences of string dmqr are in positions 289 
+The occurrences of string drld are in positions 245 
+The occurrences of string dvla are in positions 125 
+The occurrences of string dylr are in positions 53 
+The occurrences of string edmq are in positions 288 
+The occurrences of string eell are in positions 67 
+The occurrences of string eelr are in positions 149 
+The occurrences of string eemg are in positions 237 
+The occurrences of string eeqa are in positions 262 
+The occurrences of string eeql are in positions 97 
+The occurrences of string eetr are in positions 105 
+The occurrences of string egae are in positions 186 
+The occurrences of string elal are in positions 45 
+The occurrences of string elee are in positions 95 
+The occurrences of string elka are in positions 88 
+The occurrences of string ells are in positions 68 
+The occurrences of string elqa are in positions 114 
+The occurrences of string elra are in positions 77 
+The occurrences of string elrq are in positions 31 
+The occurrences of string elrv are in positions 150 
+The occurrences of string emgs are in positions 238 
+The occurrences of string epel are in positions 29 
+The occurrences of string epep are in positions 27 
+The occurrences of string eplv are in positions 284 
+The occurrences of string eqaq are in positions 263 
+The occurrences of string eqav are in positions 21 
+The occurrences of string eqgr are in positions 204 
+The occurrences of string eqlt are in positions 98 
+The occurrences of string eqva are in positions 252 
+The occurrences of string eqvq are in positions 63 
+The occurrences of string eraq are in positions 223 
+The occurrences of string ergl are in positions 189 
+The occurrences of string erlg are in positions 197 
+The occurrences of string erlr are in positions 230 
+The occurrences of string etep are in positions 25 
+The occurrences of string etmk are in positions 84 
+The occurrences of string etra are in positions 106 
+The occurrences of string evke are in positions 249 
+The occurrences of string evqa are in positions 139 
+The occurrences of string evra are in positions 256 
+The occurrences of string ewqs are in positions 37 
+The occurrences of string fepl are in positions 283 
+The occurrences of string flag are in positions 12 
+The occurrences of string fwdy are in positions 51 
+The occurrences of string gadv are in positions 123 
+The occurrences of string gaer are in positions 187 
+The occurrences of string gare are in positions 183 
+The occurrences of string gcqa are in positions 15 
+The occurrences of string gerl are in positions 229 
+The occurrences of string gevq are in positions 138 
+The occurrences of string glsa are in positions 191 
+The occurrences of string glve are in positions 296 
+The occurrences of string gplv are in positions 200 
+The occurrences of string gqpl are in positions 218 
+The occurrences of string gqrw are in positions 41 
+The occurrences of string gqst are in positions 145 
+The occurrences of string grfw are in positions 49 
+The occurrences of string grlv are in positions 131 
+The occurrences of string grvr are in positions 206 
+The occurrences of string gsla are in positions 214 
+The occurrences of string gsrt are in positions 240 
+The occurrences of string hgrl are in positions 130 
+The occurrences of string hlrk are in positions 158 
+The occurrences of string hqar are in positions 275 
+The occurrences of string hqkr are in positions 173 
+The occurrences of string irer are in positions 195 
+The occurrences of string irlv are in positions 268 
+The occurrences of string kayk are in positions 90 
+The occurrences of string kelk are in positions 87 
+The occurrences of string kelq are in positions 113 
+The occurrences of string keqv are in positions 251 
+The occurrences of string klee are in positions 260 
+The occurrences of string klrk are in positions 161 
+The occurrences of string krla are in positions 175 
+The occurrences of string krll are in positions 164 
+The occurrences of string ksel are in positions 93 
+The occurrences of string kswf are in positions 280 
+The occurrences of string kveq are in positions 19 
+The occurrences of string kvlw are in positions 2 
+The occurrences of string lagc are in positions 13 
+The occurrences of string lagq are in positions 216 
+The occurrences of string lalg are in positions 46 
+The occurrences of string lash are in positions 127, 155, 170, 272 
+The occurrences of string lavy are in positions 177 
+The occurrences of string ldev are in positions 247 
+The occurrences of string leeq are in positions 96, 261 
+The occurrences of string lgad are in positions 122 
+The occurrences of string lgpl are in positions 199 
+The occurrences of string lgqs are in positions 144 
+The occurrences of string lgrf are in positions 48 
+The occurrences of string lkay are in positions 89 
+The occurrences of string lksw are in positions 279 
+The occurrences of string llrv are in positions 166 
+The occurrences of string llss are in positions 69 
+The occurrences of string llvt are in positions 8 
+The occurrences of string lmde are in positions 81 
+The occurrences of string lqaa are in positions 115 
+The occurrences of string lqer are in positions 221 
+The occurrences of string lral are in positions 78 
+The occurrences of string lrar are in positions 232 
+The occurrences of string lrkl are in positions 159 
+The occurrences of string lrkr are in positions 162 
+The occurrences of string lrqq are in positions 32 
+The occurrences of string lrvl are in positions 167 
+The occurrences of string lrvr are in positions 151 
+The occurrences of string lrwv are in positions 55 
+The occurrences of string lsai are in positions 192 
+The occurrences of string lseq are in positions 61 
+The occurrences of string lske are in positions 111 
+The occurrences of string lssq are in positions 70 
+The occurrences of string ltpv are in positions 100 
+The occurrences of string lved are in positions 286 
+The occurrences of string lvek are in positions 297 
+The occurrences of string lveq are in positions 202 
+The occurrences of string lvla are in positions 270 
+The occurrences of string lvqy are in positions 133 
+The occurrences of string lvtf are in positions 9 
+The occurrences of string lwaa are in positions 4 
+The occurrences of string mdet are in positions 82 
+The occurrences of string meem are in positions 236 
+The occurrences of string mgsr are in positions 239 
+The occurrences of string mkel are in positions 86 
+The occurrences of string mkvl are in positions 1 
+The occurrences of string mlgq are in positions 143 
+The occurrences of string mqrq are in positions 290 
+The occurrences of string pelr are in positions 30 
+The occurrences of string pepe are in positions 28 
+The occurrences of string plqe are in positions 220 
+The occurrences of string plve are in positions 201, 285 
+The occurrences of string pvae are in positions 102 
+The occurrences of string qaaq are in positions 116 
+The occurrences of string qaga are in positions 181 
+The occurrences of string qakv are in positions 17 
+The occurrences of string qaml are in positions 141 
+The occurrences of string qaqq are in positions 264 
+The occurrences of string qarl are in positions 119, 276 
+The occurrences of string qave are in positions 22 
+The occurrences of string qawg are in positions 226 
+The occurrences of string qeel are in positions 66 
+The occurrences of string qelr are in positions 76 
+The occurrences of string qera are in positions 222 
+The occurrences of string qgrv are in positions 205 
+The occurrences of string qirl are in positions 267 
+The occurrences of string qkrl are in positions 174 
+The occurrences of string qltp are in positions 99 
+The occurrences of string qplq are in positions 219 
+The occurrences of string qqir are in positions 266 
+The occurrences of string qqte are in positions 34 
+The occurrences of string qrqw are in positions 291 
+The occurrences of string qrwe are in positions 42 
+The occurrences of string qsgq are in positions 39 
+The occurrences of string qste are in positions 146 
+The occurrences of string qtew are in positions 35 
+The occurrences of string qtls are in positions 59 
+The occurrences of string qvae are in positions 253 
+The occurrences of string qvqe are in positions 64 
+The occurrences of string qvtq are in positions 73 
+The occurrences of string qwag are in positions 293 
+The occurrences of string qyrg are in positions 135 
+The occurrences of string raat are in positions 209 
+The occurrences of string rakl are in positions 258 
+The occurrences of string ralm are in positions 79 
+The occurrences of string raqa are in positions 224 
+The occurrences of string rarl are in positions 108 
+The occurrences of string rarm are in positions 233 
+The occurrences of string rdrl are in positions 244 
+The occurrences of string rega are in positions 185 
+The occurrences of string rerl are in positions 196 
+The occurrences of string rfwd are in positions 50 
+The occurrences of string rgev are in positions 137 
+The occurrences of string rgls are in positions 190 
+The occurrences of string rklr are in positions 160 
+The occurrences of string rkrl are in positions 163 
+The occurrences of string rlas are in positions 154 
+The occurrences of string rlav are in positions 176 
+The occurrences of string rlde are in positions 246 
+The occurrences of string rlga are in positions 121 
+The occurrences of string rlgp are in positions 198 
+The occurrences of string rlks are in positions 278 
+The occurrences of string rllr are in positions 165 
+The occurrences of string rlra are in positions 231 
+The occurrences of string rlsk are in positions 110 
+The occurrences of string rlvl are in positions 269 
+The occurrences of string rlvq are in positions 132 
+The occurrences of string rmee are in positions 235 
+The occurrences of string rqqt are in positions 33 
+The occurrences of string rqwa are in positions 292 
+The occurrences of string rtrd are in positions 242 
+The occurrences of string rvla are in positions 168 
+The occurrences of string rvra are in positions 207 
+The occurrences of string rvrl are in positions 152 
+The occurrences of string rwel are in positions 43 
+The occurrences of string rwvq are in positions 56 
+The occurrences of string sair are in positions 193 
+The occurrences of string sele are in positions 94 
+The occurrences of string seqv are in positions 62 
+The occurrences of string sgqr are in positions 40 
+The occurrences of string shgr are in positions 129 
+The occurrences of string shlr are in positions 157 
+The occurrences of string shqa are in positions 274 
+The occurrences of string shqk are in positions 172 
+The occurrences of string skel are in positions 112 
+The occurrences of string slag are in positions 215 
+The occurrences of string sqvt are in positions 72 
+The occurrences of string srtr are in positions 241 
+The occurrences of string ssqv are in positions 71 
+The occurrences of string stee are in positions 147 
+The occurrences of string swfe are in positions 281 
+The occurrences of string teel are in positions 148 
+The occurrences of string tepe are in positions 26 
+The occurrences of string tewq are in positions 36 
+The occurrences of string tfla are in positions 11 
+The occurrences of string tlse are in positions 60 
+The occurrences of string tmke are in positions 85 
+The occurrences of string tpva are in positions 101 
+The occurrences of string tqel are in positions 75 
+The occurrences of string trar are in positions 107 
+The occurrences of string trdr are in positions 243 
+The occurrences of string tvgs are in positions 212 
+The occurrences of string vaee are in positions 103 
+The occurrences of string vaev are in positions 254 
+The occurrences of string vedm are in positions 287 
+The occurrences of string veqa are in positions 20 
+The occurrences of string veqg are in positions 203 
+The occurrences of string vete are in positions 24 
+The occurrences of string vgsl are in positions 213 
+The occurrences of string vkeq are in positions 250 
+The occurrences of string vlas are in positions 126, 169, 271 
+The occurrences of string vlwa are in positions 3 
+The occurrences of string vqam are in positions 140 
+The occurrences of string vqee are in positions 65 
+The occurrences of string vqtl are in positions 58 
+The occurrences of string vqyr are in positions 134 
+The occurrences of string vraa are in positions 208 
+The occurrences of string vrak are in positions 257 
+The occurrences of string vrla are in positions 153 
+The occurrences of string vtfl are in positions 10 
+The occurrences of string vtqe are in positions 74 
+The occurrences of string vyqa are in positions 179 
+The occurrences of string waal are in positions 5 
+The occurrences of string wagl are in positions 294 
+The occurrences of string wdyl are in positions 52 
+The occurrences of string wela are in positions 44 
+The occurrences of string wfep are in positions 282 
+The occurrences of string wger are in positions 228 
+The occurrences of string wqsg are in positions 38 
+The occurrences of string wvqt are in positions 57 
+The occurrences of string ykse are in positions 92 
+The occurrences of string ylrw are in positions 54 
+The occurrences of string yqag are in positions 180 
+The occurrences of string yrge are in positions 136 
+gcqakveqaveteelkaykseleeqltpvaeetrarlskelqaadvlashgrlvqyrgevqamlgqsteelrvrlashlr
+match: gcqa
+match: cqak
+match: qakv
+match: akve
+match: kveq
+match: veqa
+match: eqav
+match: qave
+match: avet
+match: vete
+match: teel
+match: elka
+match: lkay
+match: kayk
+match: ayks
+match: ykse
+match: ksel
+match: sele
+match: elee
+match: leeq
+match: leeq
+match: eeql
+match: eqlt
+match: qltp
+match: ltpv
+match: tpva
+match: pvae
+match: vaee
+match: aeet
+match: eetr
+match: etra
+match: trar
+match: rarl
+match: arls
+match: rlsk
+match: lske
+match: skel
+match: kelq
+match: elqa
+match: lqaa
+match: advl
+match: dvla
+match: vlas
+match: vlas
+match: vlas
+match: lash
+match: lash
+match: lash
+match: lash
+match: ashg
+match: shgr
+match: hgrl
+match: grlv
+match: rlvq
+match: lvqy
+match: vqyr
+match: qyrg
+match: yrge
+match: rgev
+match: gevq
+match: evqa
+match: vqam
+match: qaml
+match: amlg
+match: mlgq
+match: lgqs
+match: gqst
+match: qste
+match: stee
+match: teel
+match: eelr
+match: elrv
+match: lrvr
+match: rvrl
+match: vrla
+match: rlas
+match: lash
+match: lash
+match: lash
+match: lash
+match: ashl
+match: shlr
+HSP in Q: advlashgrlvqyrgevqamlgqsteelrvrlashlr at positions 124 
+HSP in Q: elkaykseleeqltpvaeetrarlskelqaa at positions 88 
+HSP in Q: gcqakveqavete at positions 15 
+The Longest string is advlashgrlvqyrgevqamlgqsteelrvrlashlr with length 37
+gerlrarmeemgsrtrdrldevkeqvae
+match: gerl
+match: erlr
+match: rlra
+match: lrar
+match: rarm
+match: arme
+match: rmee
+match: meem
+match: eemg
+match: emgs
+match: mgsr
+match: gsrt
+match: srtr
+match: rtrd
+match: trdr
+match: rdrl
+match: drld
+match: rlde
+match: ldev
+match: devk
+match: evke
+match: vkeq
+match: keqv
+match: eqva
+match: qvae
+HSP in Q: gerlrarmeemgsrtrdrldevkeqvae at positions 229 
+The Longest string is gerlrarmeemgsrtrdrldevkeqvae with length 28

@@ -1,0 +1,108 @@
+mkvlwaallvtflagcqakveqavetepepelrqqtewqsgqrwelalgrfwdylrwvqt
+lseqvqeellssqvtqelralmdetmkelkaykseleeqltpvaeetrarlskelqaaqa
+rlgadvlashgrlvqyrgevqamlgqsteelrvrlashlrklrkrllrvlashqkrlavy
+qagaregaerglsairerlgplveqgrvraatvgslagqplqeraqawgerlrarmeemg
+srtrdrldevkeqvaevrakleeqaqqirlvlashqarlkswfeplvedmqrqwaglvek
+
+gcqakveqaveteelkaykseleeqltpvaeetrarlskelqaadvlashgrlvqyrgevqamlgqsteelrvrlashlr
+match: gcqa
+match: cqak
+match: qakv
+match: akve
+match: kveq
+match: veqa
+match: eqav
+match: qave
+match: avet
+match: vete
+match: teel
+match: elka
+match: lkay
+match: kayk
+match: ayks
+match: ykse
+match: ksel
+match: sele
+match: elee
+match: leeq
+match: eeql
+match: eqlt
+match: qltp
+match: ltpv
+match: tpva
+match: pvae
+match: vaee
+match: aeet
+match: eetr
+match: etra
+match: trar
+match: rarl
+match: arls
+match: rlsk
+match: lske
+match: skel
+match: kelq
+match: elqa
+match: lqaa
+match: advl
+match: dvla
+match: vlas
+match: lash
+match: ashg
+match: shgr
+match: hgrl
+match: grlv
+match: rlvq
+match: lvqy
+match: vqyr
+match: qyrg
+match: yrge
+match: rgev
+match: gevq
+match: evqa
+match: vqam
+match: qaml
+match: amlg
+match: mlgq
+match: lgqs
+match: gqst
+match: qste
+match: stee
+match: teel
+match: eelr
+match: elrv
+match: lrvr
+match: rvrl
+match: vrla
+match: rlas
+match: lash
+match: ashl
+match: shlr
+HSP in Q: gcqakveqavete at position: 15
+HSP in Q: advlashgrlvqyrgevqamlgqsteelrvrlashlr at position: 128
+HSP in Q: elkaykseleeqltpvaeetrarlskelqaa at position: 90
+gerlrarmeemgsrtrdrldevkeqvae
+match: gerl
+match: erlr
+match: rlra
+match: lrar
+match: rarm
+match: arme
+match: rmee
+match: meem
+match: eemg
+match: srtr
+match: rtrd
+match: trdr
+match: rdrl
+match: drld
+match: rlde
+match: ldev
+match: devk
+match: evke
+match: vkeq
+match: keqv
+match: eqva
+match: qvae
+HSP in Q: srtrdrldevkeqvae at position: 249
+HSP in Q: gerlrarmeemg at position: 235
